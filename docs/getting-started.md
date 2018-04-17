@@ -1,14 +1,11 @@
-<!-- front-matter
-id: getting-started
-title: Getting Started
--->
 
 # Getting Started
+> All commands are given for OSX or Linux.
 
-*If you've previously installed gulp globally, run `npm rm --global gulp` before following these instructions.* For more information, read this [Sip](https://medium.com/gulpjs/gulp-sips-command-line-interface-e53411d4467).
+*If you've previously installed gulp globally, run `npm rm --global gulp` before following these instructions. For more information, read this [Sip][sips cli].*
 
-#### Check for Node and npm
-Make sure that you've installed Node and npm before attempting to install gulp.
+### Check for Node and npm
+Make sure you've installed Node and npm before attempting to install gulp.
 
 ```sh
 node --version
@@ -16,28 +13,33 @@ node --version
 ```sh
 npm --version
 ```
+If they are not installed, follow the instructions [here][node and npm install].
 
-#### Install the `gulp` command
-
+###  Install the `gulp` command
 ```sh
 npm install --global gulp-cli
 ```
+### Create a project directory
+Create a project directory and navigate into it.
+```sh
+mkdir your-project && cd your-project
+```
 
-#### Create a `package.json` in your project directory
-If you don't have a package.json, create one. If you need help, run an `npm init` which will walk you through giving it a name, version, description, etc.
+### Create a `package.json` in your project directory
+ ```sh
+ npm init
+ ``` 
+ This will guide you through giving your project a name, version, description, etc.
 
 
-#### Install `gulp` in your devDependencies
-
-Run this command in your project directory:
+### Install `gulp` in your devDependencies
 
 ```sh
 npm install --save-dev gulp@next
 ```
 
-#### Create a `gulpfile`
-
-In your project directory, create a file named `gulpfile.js` in your project root with these contents:
+### Create a `gulpfile`
+Using your text editor, create a file named `gulpfile.js` in your project root with these contents:
 
 ```js
 var gulp = require('gulp');
@@ -50,19 +52,19 @@ function defaultTask(done) {
 }
 ```
 
-#### Test it out
-
-Run the gulp command in your project directory:
+### Test it
+Run the gulp command in your project directory in your terminal:
 
 ```sh
 gulp
 ```
 
-To run multiple tasks, you can use `gulp <task> <othertask>`.
-
-#### Result
-
-Voila! The default task will run and do nothing.
+To run multiple tasks, use: 
+```sh
+gulp <task> <othertask>`.
+```
+### Result
+ The default task will run and do nothing.  It should look similar to this:
 
 ```sh
 Using gulpfile ~/my-project/gulpfile.js
@@ -80,6 +82,9 @@ For API specific documentation, you can check out the [documentation for that](A
 - [Recipes](recipes) - Specific examples from the community
 - [In Depth Help](https://travismaynard.com/writing/getting-started-with-gulp) - A tutorial from the guy who wrote the book
 - [Plugins](https://gulpjs.com/plugins/) - Building blocks for your gulp file
+
+[sips cli]: https://medium.com/gulpjs/gulp-sips-command-line-interface-e53411d4467
+[node and npm install]: https://nodejs.org/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyNTc0NTc4XX0=
+eyJoaXN0b3J5IjpbLTIwMjI4MjQxMDAsNzcyNTc0NTc4XX0=
 -->
