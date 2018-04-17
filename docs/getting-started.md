@@ -1,3 +1,8 @@
+<!-- front-matter
+id: getting-started
+title: Getting Started
+-->
+
 
 # Getting Started
 > All commands are given for OSX or Linux.
@@ -86,5 +91,5 @@ For API specific documentation, you can check out the [documentation for that](A
 [sips cli]: https://medium.com/gulpjs/gulp-sips-command-line-interface-e53411d4467
 [node and npm install]: https://nodejs.org/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjI4MjQxMDAsNzcyNTc0NTc4XX0=
+eyJoaXN0b3J5IjpbNjgxNDk1NTQ0LDc3MjU3NDU3OF19
 -->
