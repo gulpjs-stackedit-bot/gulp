@@ -34,12 +34,11 @@ mkdir your-project && cd your-project
 ### Create a `package.json` in your project directory
 
 ```sh
-
 npm init
 
  ```
 
-This will guide 
+  e 
  Teae  you through giving your project a name, version, description, etc.
 
 
@@ -97,7 +96,7 @@ For API specific documentation, you can check out the [documentation for that](A
 [sips cli]
 [node and npm install]: https://nodejs.org/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTM5MjQ0NCwxNTkzNzYxOTMsLTE5OD
-kwOTM0OTIsNDQwMDI1MDQ3LDY4MTQ5NTU0NCw3NzI1NzQ1Nzhd
-fQ==
+eyJoaXN0b3J5IjpbLTE1MTcyOTI1MDksMTEyMTM5MjQ0NCwtMT
+k4OTA5MzQ5Miw0NDAwMjUwNDcsNjgxNDk1NTQ0LDc3MjU3NDU3
+OF19
 -->
