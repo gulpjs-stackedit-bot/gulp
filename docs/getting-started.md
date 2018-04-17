@@ -1,7 +1,7 @@
 <!-- front-matter
 id: getting-started
 title: Getting Started
-hide
+hide_title: true
 -->
 
 
@@ -91,6 +91,6 @@ For API specific documentation, you can check out the [documentation for that](A
 [sips cli]
 [node and npm install]: https://nodejs.org/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA2NTE5NjQsNjgxNDk1NTQ0LDc3Mj
-U3NDU3OF19
+eyJoaXN0b3J5IjpbNDQwMDI1MDQ3LDY4MTQ5NTU0NCw3NzI1Nz
+Q1NzhdfQ==
 -->
