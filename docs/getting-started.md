@@ -19,7 +19,7 @@ node --version
 ```sh
 npm --version
 ```
-If they are not installed, follow the instructions [here][node and npm install]sipscli.
+If they are not installed, follow the instructions [here][node and npm install].
 
 ### Install the `gulp` command
 ```sh
@@ -91,6 +91,6 @@ For API specific documentation, you can check out the [documentation for that](A
 [sips cli]
 [node and npm install]: https://nodejs.org/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwMDI1MDQ3LDY4MTQ5NTU0NCw3NzI1Nz
-Q1NzhdfQ==
+eyJoaXN0b3J5IjpbLTE5ODkwOTM0OTIsNDQwMDI1MDQ3LDY4MT
+Q5NTU0NCw3NzI1NzQ1NzhdfQ==
 -->
