@@ -1,4 +1,4 @@
-# gulp documentation2
+# gulp documentation
 
 * [Getting Started](getting-started.md) - Get started with gulp
 * [API documentation](API.md) - The programming interface, defined
@@ -63,5 +63,5 @@ To the extent possible under law, [Fractal](http://wearefractal.com) has waived 
 [SimplifiedChineseDocs]: https://github.com/lisposter/gulp-docs-zh-cn
 [KoreanDocs]: https://github.com/preco21/gulp-docs-ko
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODI0MDI5NjBdfQ==
+eyJoaXN0b3J5IjpbOTc5NDM4NDI2LC0xODgyNDAyOTYwXX0=
 -->
