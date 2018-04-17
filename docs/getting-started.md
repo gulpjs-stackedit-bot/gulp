@@ -31,10 +31,15 @@ Create a project directory and navigate into it.
 mkdir your-project && cd your-project
 ```
 
-### Create a po ior```sh
- npm init
- ``` 
- This you dot eae a package.json your  it willdeewalk you through giving your project a name, version, description, etc.
+### Create a `package.json` in your project directory
+
+```sh
+
+npm init
+
+```
+
+This will guide you through giving your project a name, version, description, etc.
 
 
 ## Install `gulp` in your devDependencies
@@ -91,6 +96,6 @@ For API specific documentation, you can check out the [documentation for that](A
 [sips cli]
 [node and npm install]: https://nodejs.org/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDE5OTU2OSwtMTk4OTA5MzQ5Miw0ND
-AwMjUwNDcsNjgxNDk1NTQ0LDc3MjU3NDU3OF19
+eyJoaXN0b3J5IjpbMTU5Mzc2MTkzLC0xOTg5MDkzNDkyLDQ0MD
+AyNTA0Nyw2ODE0OTU1NDQsNzcyNTc0NTc4XX0=
 -->
