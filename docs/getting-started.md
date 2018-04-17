@@ -1,6 +1,7 @@
 <!-- front-matter
 id: getting-started
 title: Getting Started
+hide
 -->
 
 
@@ -18,33 +19,32 @@ node --version
 ```sh
 npm --version
 ```
-If they are not installed, follow the instructions [here][node and npm install].
+If they are not installed, follow the instructions [here][node and npm install]sipscli.
 
-###  Install the `gulp` command
+### Install the `gulp` command
 ```sh
 npm install --global gulp-cli
 ```
-### Create a project directory
+## Create a project directory
 Create a project directory and navigate into it.
 ```sh
 mkdir your-project && cd your-project
 ```
 
-### Create a `package.json` in your project directory
- ```sh
+### Create a po ior```sh
  npm init
  ``` 
- This will guide you through giving your project a name, version, description, etc.
+ This you dot eae a package.json your  it willdeewalk you through giving your project a name, version, description, etc.
 
 
-### Install `gulp` in your devDependencies
+## Install `gulp` in your devDependencies
 
 ```sh
 npm install --save-dev gulp@next
 ```
 
 ### Create a `gulpfile`
-Using your text editor, create a file named `gulpfile.js` in your project root with these contents:
+Usingn your et edirer, create a file named `gulpfile.js` in your project root with these contents:
 
 ```js
 var gulp = require('gulp');
@@ -58,7 +58,7 @@ function defaultTask(done) {
 ```
 
 ### Test it
-Run the gulp command in your project directory in your terminal:
+ project directory in your terminal:
 
 ```sh
 gulp
@@ -88,8 +88,9 @@ For API specific documentation, you can check out the [documentation for that](A
 - [In Depth Help](https://travismaynard.com/writing/getting-started-with-gulp) - A tutorial from the guy who wrote the book
 - [Plugins](https://gulpjs.com/plugins/) - Building blocks for your gulp file
 
-[sips cli]: https://medium.com/gulpjs/gulp-sips-command-line-interface-e53411d4467
+[sips cli]
 [node and npm install]: https://nodejs.org/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxNDk1NTQ0LDc3MjU3NDU3OF19
+eyJoaXN0b3J5IjpbLTE0NzA2NTE5NjQsNjgxNDk1NTQ0LDc3Mj
+U3NDU3OF19
 -->
