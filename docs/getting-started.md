@@ -25,7 +25,7 @@ If they are not installed, follow the instructions [here][node and npm install].
 ```sh
 npm install --global gulp-cli
 ```
-## Create a project directory
+### Create a project directory
 Create a project directory and navigate into it.
 ```sh
 mkdir your-project && cd your-project
@@ -91,6 +91,6 @@ For API specific documentation, you can check out the [documentation for that](A
 [sips cli]
 [node and npm install]: https://nodejs.org/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODkwOTM0OTIsNDQwMDI1MDQ3LDY4MT
-Q5NTU0NCw3NzI1NzQ1NzhdfQ==
+eyJoaXN0b3J5IjpbMTQ5MDE5OTU2OSwtMTk4OTA5MzQ5Miw0ND
+AwMjUwNDcsNjgxNDk1NTQ0LDc3MjU3NDU3OF19
 -->
